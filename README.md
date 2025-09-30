@@ -1,4 +1,4 @@
-<img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/c0442702-7313-45f7-9ac3-6597427a9316" /># 🗓️ Sistema de Reservas
+ 🗓️ Sistema de Reservas
 
 ## 📌 Descripción
 Este proyecto es un **sistema de reservas con interfaz gráfica web**, desarrollado como parte de un proceso formativo en diseño de interfaces gráficas.  
