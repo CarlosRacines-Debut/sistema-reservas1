@@ -1,4 +1,4 @@
-# 🗓️ Sistema de Reservas
+<img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/c0442702-7313-45f7-9ac3-6597427a9316" /># 🗓️ Sistema de Reservas
 
 ## 📌 Descripción
 Este proyecto es un **sistema de reservas con interfaz gráfica web**, desarrollado como parte de un proceso formativo en diseño de interfaces gráficas.  
@@ -9,15 +9,6 @@ Está desarrollado con **HTML, CSS y JavaScript**, y se encuentra desplegado med
 🔗 **Versión en línea:** [Sistema de Reservas](https://carlosracines-debut.github.io/sistema-reservas1/)
 
 ---
-
-## 🖼️ Vista previa
-Pantalla principal (Login):  
-![Vista de Login](assets/login.png)
-
-Pantalla de Registro:  
-![Vista de Registro](assets/registro.png)
-
-*(Recuerda subir tus capturas a la carpeta `assets/` para que se vean aquí.)*
 
 ---
 
